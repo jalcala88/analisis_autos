@@ -1,2 +1,3 @@
 # analisis_autos
-Diseñar una pagina que permita la visualizacion de marcas de autos
+La aplicacion sirve para visualizar un histograma de los kilometros de las marcas de anuncios de carros.
+Adicional te gráfica un diagrama de dispersión que te permite visualizar la relación entre el precio y el kilometraje
